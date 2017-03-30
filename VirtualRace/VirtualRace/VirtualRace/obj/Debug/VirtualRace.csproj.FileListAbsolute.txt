@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\bin\Debug\VirtualRace.exe.config
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\bin\Debug\VirtualRace.exe
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\bin\Debug\VirtualRace.pdb
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.exe
+C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.pdb
