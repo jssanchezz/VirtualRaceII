@@ -10,7 +10,11 @@ namespace VirtualRace
     {
         static void Main(string[] args)
         {
-            
+            Carrera miCarrera = new Carrera();
+
+            miCarrera.MostrarCarrera();
+
+            Console.ReadKey();
         }
     }
 }

@@ -10,11 +10,12 @@ namespace VirtualRace
     {
         #region Atributos
 
-        public eFabricante fabricante;
+        private eFabricante fabricante;
         public Rueda DD;
         public Rueda DI;
         public Rueda TD;
         public Rueda TI;
+        public int kilometrosRecorridos;
 
         public static int contadorDeObjetos;
         private static Random miNumeroRandom;
@@ -40,6 +41,30 @@ namespace VirtualRace
         {
             contadorDeObjetos = 0;
             miNumeroRandom = new Random();
+        }
+
+        #endregion
+
+        #region Métodos
+
+        public void AgregarKilometros(int kilometros)
+        {
+            this.kilometrosRecorridos = kilometros;
+        }
+
+        public void VolverAZero()
+        {
+            this.kilometrosRecorridos = 0;
+        }
+
+        public int GetKms()
+        {
+            return this.kilometrosRecorridos;
+        }
+
+        public void MostrarAuto()
+        {
+            Console.WriteLine("Fabricante: " + this.fabricante.ToString());
         }
 
         #endregion

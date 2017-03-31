@@ -4,3 +4,9 @@ C:\Users\Juan\Desktop\VirtualRace\VirtualRace\bin\Debug\VirtualRace.pdb
 C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.csprojResolveAssemblyReference.cache
 C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.exe
 C:\Users\Juan\Desktop\VirtualRace\VirtualRace\obj\Debug\VirtualRace.pdb
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\bin\Debug\VirtualRace.exe.config
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\obj\Debug\VirtualRace.exe
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\obj\Debug\VirtualRace.pdb
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\bin\Debug\VirtualRace.exe
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\bin\Debug\VirtualRace.pdb
+D:\Trabajos alumno\Sanchez Juan\Sanchez.Juan\Ejercicios\VirtualRace\VirtualRace\VirtualRace\obj\Debug\VirtualRace.csprojResolveAssemblyReference.cache
